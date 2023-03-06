@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">backpaper</string>
+    <string name="darkTheme">Click here for apply dark theme</string>
+    <string name="lightTheme">Click here for apply light theme</string>
+    <string name="themeD">Theme</string>
+    <string name="themeL">Light Theme</string>
+</resources>
